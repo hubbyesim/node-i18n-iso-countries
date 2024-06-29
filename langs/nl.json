@@ -224,7 +224,7 @@
     "UA": "Oekraïne",
     "AE": "Verenigde Arabische Emiraten",
     "GB": ["Groot-Brittannië", "Verenigd Koninkrijk"],
-    "US": ["Verenigde Staten van Amerika", "Verenigde Staten"],
+    "US": ["de Verenigde Staten", "Verenigde Staten", "de Verenigde Staten van Amerika","Verenigde Staten van Amerika"],
     "UM": "Ver afgelegen eilandjes van de Verenigde Staten",
     "UY": "Uruguay",
     "UZ": "Oezbekistan",
@@ -250,6 +250,11 @@
     "RS": "Servië",
     "SX": ["Sint Maarten", "Sint-Maarten", "Sint Maarten (Nederlands deel)", "Land Sint Maarten"],
     "SS": "Zuid-Soedan",
-    "XK": "Kosovo"
+    "XK": "Kosovo",
+    "XS": "Latijns-Amerika",
+    "EU": "Europese Unie",
+    "XA": "Azie",
+    "XN": "Noord-Amerika",
+    "XO": "Oceanië"
   }
 }
