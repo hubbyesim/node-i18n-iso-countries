@@ -250,6 +250,11 @@
     "RS": "Serbie",
     "SX": "Saint-Martin (partie néerlandaise)",
     "SS": "Soudan du Sud",
-    "XK": "Kosovo"
+    "XK": "Kosovo",
+    "XS": "Amérique latine",
+    "EU": "Union européenne",
+    "XA": "Asie",
+    "XN": "Amérique du Nord",
+    "XO": "Océanie"
   }
 }

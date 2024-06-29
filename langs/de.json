@@ -250,6 +250,11 @@
     "EH": "Westsahara",
     "CF": "Zentralafrikanische Republik",
     "CY": "Zypern",
-    "XK": "Kosovo"
+    "XK": "Kosovo",
+    "XS": "Lateinamerika",
+    "EU": "Europäische Union",
+    "XA": "Asien",
+    "XN": "Nordamerika",
+    "XO": "Ozeanien"    
   }
 }
