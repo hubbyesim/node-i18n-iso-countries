@@ -1,6 +1,6 @@
 {
   "name": "i18n-iso-countries",
-  "version": "7.11.2",
+  "version": "7.11.2-hubby",
   "description": "i18n for ISO 3166-1 country codes",
   "typings": "index.d.ts",
   "keywords": [
@@ -118,6 +118,10 @@
     {
       "name": "Alexis Launay",
       "email": "yorunohikage@gmail.com"
+    },
+    {
+      "name": "Daniel Fortuyn",
+      "email": "daniel@frtn.nl"
     }
   ],
   "license": "MIT",
