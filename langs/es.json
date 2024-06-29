@@ -101,7 +101,10 @@
     "IS": "Islandia",
     "IN": "India",
     "ID": "Indonesia",
-    "IR": ["Irán", "República Islámica de Irán"],
+    "IR": [
+      "Irán",
+      "República Islámica de Irán"
+    ],
     "IQ": "Iraq",
     "IE": "Irlanda",
     "IL": "Israel",
@@ -250,6 +253,11 @@
     "RS": "Serbia",
     "SX": "Sint Maarten (neerlandesa)",
     "SS": "Sudán del Sur",
-    "XK": "Kosovo"
+    "XK": "Kosovo",
+    "XS": "América Latina",
+    "EU": "Unión Europea",
+    "XA": "Asia",
+    "XN": "América del Norte",
+    "XO": "Oceanía"
   }
 }
