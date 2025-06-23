@@ -255,6 +255,8 @@
     "EU": "European Union",
     "XA": "Asia",
     "XN": "North America",
-    "XO": "Oceania"
+    "XO": "Oceania",
+    "XCA": "Caribbean",
+    "XM": "Middle East"
   }
 }
