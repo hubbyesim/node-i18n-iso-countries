@@ -250,6 +250,14 @@
     "RS": "Serbia",
     "SX": "Sint Maarten",
     "SS": "Sør-Sudan",
-    "XK": "Kosovo"
+    "XK": "Kosovo",
+    "XS": "Latin-Amerika",
+    "EU": "Europa",
+    "XA": "Asia",
+    "XN": "Nord-Amerika",
+    "OC": "Oseania",
+    "XCA": "Karibia",
+    "XMA": "Midtøsten",
+    "XME": "Midtøsten"
   }
 }
